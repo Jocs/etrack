@@ -1,0 +1,24 @@
+{
+  "name": "etrackjs",
+  "version": "1.0.0",
+  "description": "A JavaScript Error minitor and reportor",
+  "main": "etrack.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jocs/eTrack.Js.git"
+  },
+  "keywords": [
+    "eTrack.js",
+    "etrack",
+    "eTrack"
+  ],
+  "author": "Jocs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jocs/eTrack.Js/issues"
+  },
+  "homepage": "https://github.com/Jocs/eTrack.Js#readme"
+}
